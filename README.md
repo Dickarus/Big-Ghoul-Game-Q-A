@@ -17,14 +17,14 @@ Questions will include all answers given. The correct answer will be marked in *
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wave 6 <br>
 </p>
 
-### What akimbo weapon is the coolest?
-<p>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em><strong>Magnums</em></strong><br>
-</p>
-
 ### Do you like Sunhud?
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em><strong>Yes, if you pay me.</em></strong><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em><strong>No.</em></strong><br>
+</p>
+
+### What akimbo weapon is the coolest?
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em><strong>Magnums</em></strong><br>
 </p>
