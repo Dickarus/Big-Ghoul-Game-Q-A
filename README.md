@@ -28,3 +28,5 @@ Questions will include all answers given. The correct answer will be marked in *
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em><strong>Magnums</em></strong><br>
 </p>
+
+### Where is the Hate boss from? (needs confirmation + answers)
