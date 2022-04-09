@@ -10,7 +10,7 @@ Questions will include all answers given. The correct answer will be marked in *
   At what round did this game start?
   
   <ul>
-    <li>**Wave 0.**</li>
+    <li><strong>Wave 0.</strong></li>
     <li>Wave 1.</li>
     <li>Wave 2.</li>
     <li>Wave 3.</li>
@@ -24,7 +24,7 @@ Questions will include all answers given. The correct answer will be marked in *
   What akimbo weapon is the coolest?
   
   <ul>
-    <li>**Magnums**</li>
+    <li><strong>Magnums</strong></li>
   </ul>
 </p>
 
@@ -32,8 +32,8 @@ Questions will include all answers given. The correct answer will be marked in *
   Do you like Sunhud?
   
   <ul>
-    <li>**Yes, if you pay me.**</li>
+    <li><strong>Yes, if you pay me.</strong></li>
     <li>Yes.</li>
-    <li>**No.**</li>
+    <li><strong>No.</strong></li>
   </ul>
 </p>
