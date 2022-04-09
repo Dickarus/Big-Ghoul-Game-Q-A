@@ -30,3 +30,5 @@ Questions will include all answers given. The correct answer will be marked in *
 </p>
 
 ### Where is the Hate boss from? (needs confirmation + answers)
+
+### What does point save mean?
